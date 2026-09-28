@@ -1,0 +1,8 @@
+###variable for python
+name = abc
+age = 33
+class = 8
+rool no = 4
+hight = 7
+weight = 61 
+and the other variable ###
